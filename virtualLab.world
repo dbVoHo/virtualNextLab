@@ -1,0 +1,90 @@
+{
+    "maps": [
+        {
+            "fileName": "hub.json",
+            "height": 672,
+            "width": 992,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "fileName": "teamE.json",
+            "height": 672,
+            "width": 992,
+            "x": 992,
+            "y": 0
+        },
+        {
+            "fileName": "teamN.json",
+            "height": 672,
+            "width": 992,
+            "x": 1984,
+            "y": 0
+        },
+        {
+            "fileName": "teamITT.json",
+            "height": 672,
+            "width": 992,
+            "x": 2976,
+            "y": 0
+        },
+        {
+            "fileName": "teamG.json",
+            "height": 672,
+            "width": 992,
+            "x": 3968,
+            "y": 0
+        },
+        {
+            "fileName": "teamSystem.json",
+            "height": 672,
+            "width": 992,
+            "x": 4960,
+            "y": 0
+        },
+        {
+            "fileName": "teamC.json",
+            "height": 672,
+            "width": 992,
+            "x": 5952,
+            "y": 0
+        },
+        {
+            "fileName": "teamB.json",
+            "height": 672,
+            "width": 992,
+            "x": 6944,
+            "y": 0
+        },
+        {
+            "fileName": "teamPM.json",
+            "height": 672,
+            "width": 992,
+            "x": 7936,
+            "y": 0
+        },
+        {
+            "fileName": "teamArchitektur.json",
+            "height": 672,
+            "width": 992,
+            "x": 8928,
+            "y": 0
+        },
+        {
+            "fileName": "hub.json",
+            "height": 1024,
+            "width": 1024,
+            "x": 9920,
+            "y": 0
+        },
+        {
+            "fileName": "teamK.json",
+            "height": 672,
+            "width": 992,
+            "x": 10944,
+            "y": 0
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}
